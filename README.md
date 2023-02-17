@@ -1,13 +1,8 @@
 # bla
 test
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+
 <head>
   <style>
-    /* Generally, you should put CSS in a separate file, but for the purpose of this post, I'm including it in the style tag. */
     p, li { text-align: justify; }
     ins { background-color: #A0FFA0; }
     del { background-color: #FFA0A0; }
